@@ -1,0 +1,16 @@
+name: Submit Challenge
+description: Create an issue with this form to submit your Technical Challenge to us
+title: "[Support Engineer] Submission ready"
+body:
+  - type: checkboxes
+    id: submit
+    attributes:
+      label: Technical Challenge Checklist
+      description: By submitting this issue, you confirm that you have completed all the requirements as described in the README.md. Once you submit, you will no longer be able to make updates to this repo!
+      options:
+        - label: All three apps (Phoenix, Node, Python) are deployed to Fly.io
+          required: true
+        - label: Each app displays information about the underlying Fly Machine
+          required: true
+        - label: I have explained my implementation/solution in EXPLAIN.md
+          required: true
