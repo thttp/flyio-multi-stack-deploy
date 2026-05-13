@@ -1,4 +1,4 @@
-[![Apps Deployed](https://github.com/fly-hiring/[REPO_NAME]/actions/workflows/validate.yaml/badge.svg)](https://github.com/fly-hiring/[REPO_NAME]/actions/workflows/validate.yaml)
+[![Apps Deployed](https://github.com/fly-hiring/179301/actions/workflows/validate.yaml/badge.svg)](https://github.com/fly-hiring/179301/actions/workflows/validate.yaml)
 
 # Support Engineer Technical Challenge
 
@@ -78,12 +78,12 @@ Deploy your three apps to Fly.io with the following names:
 
 | Framework | App name | URL |
 |-----------|----------|-----|
-| Phoenix   | `[REPO_NAME]-phoenix` | `https://[REPO_NAME]-phoenix.fly.dev` |
-| Node      | `[REPO_NAME]-node`    | `https://[REPO_NAME]-node.fly.dev`    |
-| Python    | `[REPO_NAME]-python`  | `https://[REPO_NAME]-python.fly.dev`  |
+| Phoenix   | `179301-phoenix` | `https://179301-phoenix.fly.dev` |
+| Node      | `179301-node`    | `https://179301-node.fly.dev`    |
+| Python    | `179301-python`  | `https://179301-python.fly.dev`  |
 
 
-When you're ready, [create a new issue](https://github.com/fly-hiring/[REPO_NAME]/issues/new?template=submit.yaml) using the submission form. Then email us to let us know you're done.
+When you're ready, [create a new issue](https://github.com/fly-hiring/179301/issues/new?template=submit.yaml) using the submission form. Then email us to let us know you're done.
 
 We review submissions once a week. You'll hear back from us no matter what by the end of the following week, possibly sooner.
 
