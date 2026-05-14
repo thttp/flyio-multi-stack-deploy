@@ -1,0 +1,36 @@
+# Secrets and environment variables
+.env
+.env.*
+*.secret
+
+# Fly.io
+.fly/
+
+# Node.js
+node/node_modules/
+node/.node_history
+
+# Python
+python/__pycache__/
+python/*.pyc
+python/*.pyo
+python/.venv/
+python/venv/
+*.egg-info/
+
+# Elixir/Phoenix
+phoenix/_build/
+phoenix/deps/
+phoenix/.elixir_ls/
+phoenix/priv/static/
+*.ez
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
