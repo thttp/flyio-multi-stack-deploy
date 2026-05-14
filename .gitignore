@@ -25,6 +25,9 @@ phoenix/.elixir_ls/
 phoenix/priv/static/
 *.ez
 
+# Erlang
+erl_crash.dump
+
 # OS
 .DS_Store
 Thumbs.db
