@@ -1,0 +1,14 @@
+# dependencies
+/deps
+/_build
+
+# generated on crash by the VM
+erl_crash.dump
+
+# static artifacts
+/priv/static/
+
+# files matching these patterns will not be uploaded to Fly
+*.beam
+.git
+.env

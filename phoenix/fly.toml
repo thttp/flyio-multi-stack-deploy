@@ -1,0 +1,20 @@
+app = "179301-phoenix"
+primary_region = "gru"
+
+[build]
+
+[http_service]
+  internal_port = 4000
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[env]
+  PHX_HOST = "179301-phoenix.fly.dev"
+  PORT = "4000"
+
+[[vm]]
+  memory = "512mb"
+  cpu_kind = "shared"
+  cpus = 1
